@@ -1,0 +1,15 @@
+POV teman	:
+1. fork repository master
+2. git clone repository
+3. misal buat perubahan
+4. git add . -> commit -> push seperti biasa
+5. tekan menu contribute -> open pull request -> tambahkan pesan pull request -> create pull request
+6. tunggu dimerge oleh repo master
+7. cek sebelah contribute, tekan sync -> update branch
+8. git pull
+
+
+POV master	:
+1. buat repo master
+2. merge di menu pull request
+3. 
